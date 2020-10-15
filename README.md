@@ -6,7 +6,7 @@ i am going to add C++ programs that i am writing at present . These will be main
 
 Oh Yeah!!!!
      Let me introduce myself.So as you all know now that I am Yash and I a student Of Computer Engineering . I am Pursuing My Bachelors
-     from Government Engineering College.
+     from Government Engineering College,Rajkot.
      
      So that's All For Now.
       I will try to keep my strak alive ;)
