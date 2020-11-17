@@ -8,7 +8,7 @@ using namespace std;
 void line();
 class Book{
 	int bid;
-	char title[50];
+	char title[60];
 	char author[20];
 	int price;
 	
@@ -16,6 +16,8 @@ class Book{
 		
 		void getdata()
 		{
+			
+			//Get the data from user
 			cout<<"\nEnter the book Id: ";
 			cin>>bid;
 			cout<<"Enter the book name: ";
@@ -24,12 +26,13 @@ class Book{
 			cout<<"Enter the book's author: ";
 			fflush(stdin);
 			gets(author);
-			cout<<"Enter the book price: ";
+			cout<<"Enter the book< price: ";
 			cin>>price;
 		}
 		
 		void display()
 		{
+			//Display the data
 			cout<<"Book Id\t"<<"\tBook Name\t"<<"Author's Name\t"<<"Price"<<endl;
 			cout<<bid<<"\t\t";
 			
