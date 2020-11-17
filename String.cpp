@@ -18,6 +18,7 @@ public:
     int operator<(String);
     int operator==(String);
 };
+// For getting data
 
 void String :: getData()
 {
